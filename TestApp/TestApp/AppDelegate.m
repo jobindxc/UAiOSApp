@@ -8,6 +8,8 @@
 
 //jobin added this to dev branch
 
+// fixed bug 123
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
